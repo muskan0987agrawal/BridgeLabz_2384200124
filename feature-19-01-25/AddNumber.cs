@@ -4,7 +4,7 @@ class AddNumber
 {
  static void Main() 
  {
-   Console.Write("Enter the first number: ");
+        Console.Write("Enter the first number: ");
         int num1 = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter the second number: ");
         int num2 = Convert.ToInt32(Console.ReadLine());
