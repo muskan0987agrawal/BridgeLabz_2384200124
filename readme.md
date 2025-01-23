@@ -1,13 +1,9 @@
 <h2> Daily Tasks </h2><br>
-___________________________________________________________________________
-<br>
 <h3> Date: 19-01-2025 </h3>
-<br>
  1. Installation of Notepad++ and .NET (for C# Development)<br>
  2. Learn about basic structure of C#<br>
  3. Practice problem done<br>
 ___________________________________________________________________________
-<br>
 <h3> Date: 20-01-2025 </h3> <br>
 1. Internal Working of .NET Architecture <br>
 2. History and Evolution<br>
@@ -15,7 +11,7 @@ ___________________________________________________________________________
 4. fundamentals of C#<br>
 ___________________________________________________________________________
 <br>
-<h3> Date: 21-01-2025 </h3> <br>
+<h3> Date: 21-01-2025 </h3> 
 1. Data types , Comment in c#<br>
 2. Operators Predence<br>
 3. Type Conversion<br>
