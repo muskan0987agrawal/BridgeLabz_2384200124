@@ -33,9 +33,15 @@ ___________________________________________________________________________
 6. completed the assignment 1,2,3 <br>
 __________________________________________________________________________
 <br>
-<h3> Date:25-01-25 </h3>
+<h3> Date:25-01-2025 </h3>
 1. Introduction of Arrays</br>
 2. Multidimensional Array</br>
 3. Completed the assignment on this topic</br>
 ____________________________________________________________________________
+<br>
+<h3> Date:28-01-2025 </h3>
+1. Learns about Function in c# <br>
+2. Built-in function <br>
+3. Completed the assignment on this topic </br>
+___________________________________________________________________________
 <br>
