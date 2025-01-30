@@ -37,11 +37,15 @@ __________________________________________________________________________
 1. Introduction of Arrays</br>
 2. Multidimensional Array</br>
 3. Completed the assignment on this topic</br>
-____________________________________________________________________________
+___________________________________________________________________________
 <br>
 <h3> Date:28-01-2025 </h3>
 1. Learns about Function in c# <br>
 2. Built-in function <br>
 3. Completed the assignment on this topic </br>
+___________________________________________________________________________
+<br> Date: 30-01-2025 </br>
+Learns about the Sting, How to declare and intialize the string, inbuilt function of String<br>
+done the question of this topic <br>
 ___________________________________________________________________________
 <br>
