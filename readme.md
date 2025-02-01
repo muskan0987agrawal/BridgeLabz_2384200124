@@ -40,12 +40,22 @@ __________________________________________________________________________
 ___________________________________________________________________________
 <br>
 <h3> Date:28-01-2025 </h3>
-1. Learns about Function in c# <br>
+1. Learning about Function in c# <br>
 2. Built-in function <br>
 3. Completed the assignment on this topic </br>
 ___________________________________________________________________________
 <br> Date: 30-01-2025 </br>
-Learns about the Sting, How to declare and intialize the string, inbuilt function of String<br>
-done the question of this topic <br>
+1.Learning  about the String, How to declare and intialize the string, inbuilt function of String<br>
+2.done the question of this topic <br>
 ___________________________________________________________________________
-<br>
+<br>Date: 31-01-2025 </br>
+1.Date and Time Built-in function
+2.Done the assignment 
+3. Basic of Oops and practise the question regarding the Oops Concept
+___________________________________________________________________________
+<br>Date: 01-02-2025 <br>
+1.C# Constructors
+2.Instance vs. Class Variables
+3 Access Modifiers Level 1
+4. Completed the assignment on these topic 
+___________________________________________________________________________
