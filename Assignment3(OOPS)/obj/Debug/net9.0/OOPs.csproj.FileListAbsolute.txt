@@ -1,0 +1,14 @@
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\obj\Debug\net9.0\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\obj\Debug\net9.0\OOPs.AssemblyInfoInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\obj\Debug\net9.0\OOPs.AssemblyInfo.cs
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\obj\Debug\net9.0\OOPs.csproj.CoreCompileInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\bin\Debug\net9.0\OOPs.exe
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\bin\Debug\net9.0\OOPs.deps.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\bin\Debug\net9.0\OOPs.runtimeconfig.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\bin\Debug\net9.0\OOPs.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\bin\Debug\net9.0\OOPs.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\obj\Debug\net9.0\OOPs.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\obj\Debug\net9.0\refint\OOPs.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\obj\Debug\net9.0\OOPs.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\obj\Debug\net9.0\OOPs.genruntimeconfig.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\29-01-25\OOPs\obj\Debug\net9.0\ref\OOPs.dll
