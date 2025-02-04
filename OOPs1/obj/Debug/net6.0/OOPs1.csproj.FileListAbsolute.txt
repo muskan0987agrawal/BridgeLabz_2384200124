@@ -1,0 +1,14 @@
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\bin\Debug\net6.0\OOPs1.exe
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\bin\Debug\net6.0\OOPs1.deps.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\bin\Debug\net6.0\OOPs1.runtimeconfig.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\bin\Debug\net6.0\OOPs1.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\bin\Debug\net6.0\OOPs1.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\obj\Debug\net6.0\OOPs1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\obj\Debug\net6.0\OOPs1.AssemblyInfoInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\obj\Debug\net6.0\OOPs1.AssemblyInfo.cs
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\obj\Debug\net6.0\OOPs1.csproj.CoreCompileInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\obj\Debug\net6.0\OOPs1.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\obj\Debug\net6.0\refint\OOPs1.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\obj\Debug\net6.0\OOPs1.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\obj\Debug\net6.0\OOPs1.genruntimeconfig.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\OOPs1\OOPs1\obj\Debug\net6.0\ref\OOPs1.dll
