@@ -64,4 +64,16 @@ ___________________________________________________________________________
 2. Completed the Assignment on these topic
  <br>________________________________________________________________________
 <br> Date:05-02-2025 </br>
+   Object Oriented Design Principles<br>
+1. Class Diagram</br>
+2. Object Diagrams</br>
+3. Sequence Diagrams</br>
+4. Completed the assignment of these topic<br>
+___________________________________________________________________________
+<br> Date:08-02-2025 </br>
+1. Learning about Inheritance, Type of Inheritance, Method Overriding,<br>
+ Polymorphism and inheritance, Access Modifiers and Inheritance<br>
+2. Completed the Assignment of these topic<br>
+___________________________________________________________________________
+<br> 
 
