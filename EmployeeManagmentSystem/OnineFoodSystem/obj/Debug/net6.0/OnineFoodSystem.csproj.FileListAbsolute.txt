@@ -1,0 +1,14 @@
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\bin\Debug\net6.0\OnineFoodSystem.exe
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\bin\Debug\net6.0\OnineFoodSystem.deps.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\bin\Debug\net6.0\OnineFoodSystem.runtimeconfig.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\bin\Debug\net6.0\OnineFoodSystem.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\bin\Debug\net6.0\OnineFoodSystem.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\obj\Debug\net6.0\OnineFoodSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\obj\Debug\net6.0\OnineFoodSystem.AssemblyInfoInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\obj\Debug\net6.0\OnineFoodSystem.AssemblyInfo.cs
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\obj\Debug\net6.0\OnineFoodSystem.csproj.CoreCompileInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\obj\Debug\net6.0\OnineFoodSystem.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\obj\Debug\net6.0\refint\OnineFoodSystem.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\obj\Debug\net6.0\OnineFoodSystem.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\obj\Debug\net6.0\OnineFoodSystem.genruntimeconfig.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\OnineFoodSystem\obj\Debug\net6.0\ref\OnineFoodSystem.dll

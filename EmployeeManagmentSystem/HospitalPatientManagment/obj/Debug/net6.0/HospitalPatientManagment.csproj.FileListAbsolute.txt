@@ -1,0 +1,14 @@
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\bin\Debug\net6.0\HospitalPatientManagment.exe
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\bin\Debug\net6.0\HospitalPatientManagment.deps.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\bin\Debug\net6.0\HospitalPatientManagment.runtimeconfig.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\bin\Debug\net6.0\HospitalPatientManagment.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\bin\Debug\net6.0\HospitalPatientManagment.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\obj\Debug\net6.0\HospitalPatientManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\obj\Debug\net6.0\HospitalPatientManagment.AssemblyInfoInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\obj\Debug\net6.0\HospitalPatientManagment.AssemblyInfo.cs
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\obj\Debug\net6.0\HospitalPatientManagment.csproj.CoreCompileInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\obj\Debug\net6.0\HospitalPatientManagment.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\obj\Debug\net6.0\refint\HospitalPatientManagment.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\obj\Debug\net6.0\HospitalPatientManagment.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\obj\Debug\net6.0\HospitalPatientManagment.genruntimeconfig.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\EmployeeManagmentSystem\HospitalPatientManagment\obj\Debug\net6.0\ref\HospitalPatientManagment.dll
