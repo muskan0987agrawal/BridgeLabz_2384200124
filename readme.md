@@ -75,5 +75,14 @@ ___________________________________________________________________________
  Polymorphism and inheritance, Access Modifiers and Inheritance<br>
 2. Completed the Assignment of these topic<br>
 ___________________________________________________________________________
-<br> 
+<br> Date: 10-02-2025 </br>
+1. Learning about Encapsulation, Data Abstraction , Data Polymorphsim </br>
+2. Learning about 1abstract class, interface , Types of Polymorphism </br>
+3. Completed the assignment of these topic <br>
+____________________________________________________________________________
+<br> Date: 11-02-2025 </br>
+1. Data Structure Algorithm: Singly Linked Link, Doubly Linke List, 
+Circular Linked List </br>
+2. Completed assignment on these topic <br>
+___________________________________________________________________________
 
