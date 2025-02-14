@@ -86,3 +86,19 @@ Circular Linked List </br>
 2. Completed assignment on these topic <br>
 ___________________________________________________________________________
 
+<br> Date: 13-02-2025</br>
+1. Implementation of Stack , Queue </br>
+2. Learning about Dictionary in c# </br>
+3. Completed the assignment of these topic</br>
+____________________________________________________________________________
+<br>Date: 14-02-2025 </br>
+1. Sorting Algorithm in C# <br>
+2. Submitted the assignment on the topic Sorting Algorithm </br>
+____________________________________________________________________________
+<br> Date: 15-02-2025</br>
+1. Learning about StringBuilder,StringBuffer</br>
+2. Known about FileReader, InputStreamReader</br>
+3. Learning about some searching Algorithm
+4. done the assignment of these topic </br>
+___________________________________________________________________________
+
