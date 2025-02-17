@@ -99,6 +99,9 @@ ____________________________________________________________________________
 1. Learning about StringBuilder,StringBuffer</br>
 2. Known about FileReader, InputStreamReader</br>
 3. Learning about some searching Algorithm
-4. done the assignment of these topic </br>
+4. done the assignment of these topic
 ___________________________________________________________________________
-
+<br> Date:16-02-2025</br>
+1. Learning about the Time Complexity and Space Complexity </br>
+2. Completed the assignment of these concept
+____________________________________________________________________________
