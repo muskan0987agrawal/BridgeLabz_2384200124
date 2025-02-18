@@ -103,5 +103,10 @@ ____________________________________________________________________________
 ___________________________________________________________________________
 <br> Date:16-02-2025</br>
 1. Learning about the Time Complexity and Space Complexity </br>
-2. Completed the assignment of these concept
+2. Linear Search and Binary Search<br>
 ____________________________________________________________________________
+<br> Date: 18-02-2025</br>
+1. Generic Class and method<br>
+2. Completed the Assignment in these concept
+_____________________________________________________________________________
+<br>
