@@ -1,0 +1,14 @@
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\bin\Debug\net6.0\CalculatorClass.exe
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\bin\Debug\net6.0\CalculatorClass.deps.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\bin\Debug\net6.0\CalculatorClass.runtimeconfig.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\bin\Debug\net6.0\CalculatorClass.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\bin\Debug\net6.0\CalculatorClass.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\obj\Debug\net6.0\CalculatorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\obj\Debug\net6.0\CalculatorClass.AssemblyInfoInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\obj\Debug\net6.0\CalculatorClass.AssemblyInfo.cs
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\obj\Debug\net6.0\CalculatorClass.csproj.CoreCompileInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\obj\Debug\net6.0\CalculatorClass.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\obj\Debug\net6.0\refint\CalculatorClass.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\obj\Debug\net6.0\CalculatorClass.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\obj\Debug\net6.0\CalculatorClass.genruntimeconfig.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\CalculatorClass\obj\Debug\net6.0\ref\CalculatorClass.dll

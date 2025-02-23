@@ -1,0 +1,14 @@
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\bin\Debug\net6.0\StringUtilityMethod.exe
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\bin\Debug\net6.0\StringUtilityMethod.deps.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\bin\Debug\net6.0\StringUtilityMethod.runtimeconfig.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\bin\Debug\net6.0\StringUtilityMethod.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\bin\Debug\net6.0\StringUtilityMethod.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\obj\Debug\net6.0\StringUtilityMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\obj\Debug\net6.0\StringUtilityMethod.AssemblyInfoInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\obj\Debug\net6.0\StringUtilityMethod.AssemblyInfo.cs
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\obj\Debug\net6.0\StringUtilityMethod.csproj.CoreCompileInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\obj\Debug\net6.0\StringUtilityMethod.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\obj\Debug\net6.0\refint\StringUtilityMethod.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\obj\Debug\net6.0\StringUtilityMethod.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\obj\Debug\net6.0\StringUtilityMethod.genruntimeconfig.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\EvenOdd\StringUtilityMethod\obj\Debug\net6.0\ref\StringUtilityMethod.dll
