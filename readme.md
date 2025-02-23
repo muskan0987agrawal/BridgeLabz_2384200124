@@ -45,22 +45,22 @@ ___________________________________________________________________________
 3. Completed the assignment on this topic 
 ___________________________________________________________________________
  Date: 30-01-2025 
-1.Learning  about the String, How to declare and intialize the string, inbuilt function of String
-2.done the question of this topic 
+1. Learning  about the String, How to declare and intialize the string, inbuilt function of String
+2. done the question of this topic 
 ___________________________________________________________________________
 Date: 31-01-2025 
-1.Date and Time Built-in function
-2.Done the assignment 
+1. Date and Time Built-in function
+2. Done the assignment 
 3. Basic of Oops and practise the question regarding the Oops Concept
 ___________________________________________________________________________
 Date: 01-02-2025 
-1.C# Constructors
-2.Instance vs. Class Variables
-3 Access Modifiers Level 1
+1. C# Constructors
+2. Instance vs. Class Variables
+3. Access Modifiers Level 1
 4. Completed the assignment on these topic 
 ___________________________________________________________________________
  Date: 04-02-2025 
-1.Learning about the this keyword, sealed keyword and static keyword in C#
+1. Learning about the this keyword, sealed keyword and static keyword in C#
 2. Completed the Assignment on these topic
  ________________________________________________________________________
  Date:05-02-2025 
@@ -132,5 +132,10 @@ ________________________________________________________________________________
 4. SetUp of Nunit
 _________________________________________________________________________________
  Date: 23-02-2025
-
+1. Common Built-in Annotations
+2. Creating Custom Annontation
+3. Assignment of Annotations
+4. Understanding of Reflection
+5. Using Reflection in .NET
+__________________________________________________________________________________
  
