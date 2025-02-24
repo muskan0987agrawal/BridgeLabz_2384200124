@@ -1,0 +1,14 @@
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\bin\Debug\net6.0\Annotation.exe
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\bin\Debug\net6.0\Annotation.deps.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\bin\Debug\net6.0\Annotation.runtimeconfig.json
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\bin\Debug\net6.0\Annotation.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\bin\Debug\net6.0\Annotation.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\obj\Debug\net6.0\Annotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\obj\Debug\net6.0\Annotation.AssemblyInfoInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\obj\Debug\net6.0\Annotation.AssemblyInfo.cs
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\obj\Debug\net6.0\Annotation.csproj.CoreCompileInputs.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\obj\Debug\net6.0\Annotation.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\obj\Debug\net6.0\refint\Annotation.dll
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\obj\Debug\net6.0\Annotation.pdb
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\obj\Debug\net6.0\Annotation.genruntimeconfig.cache
+C:\Users\Himan\OneDrive\Desktop\C# Programming\Assignment\ReflectionDemo\Annotation\obj\Debug\net6.0\ref\Annotation.dll
