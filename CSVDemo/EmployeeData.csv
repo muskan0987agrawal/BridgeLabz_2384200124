@@ -1,0 +1,10 @@
+Id,Name,Email,PhoneNo
+1,Muskan,muskan@example.com,9876543210
+2,Alice,alice@example,123456789 
+3,Bob,bob@example.com,1234567890
+4,John,john.doe@domain.com,987654321
+5,Emma,emma@website.com,9876543210
+6,Invalid,invalidemail.com,98765  
+7,ValidUser,valid@valid.com,9999999999
+5,Emma,emma@website.com,9876543210
+6,Invalid,invalidemail.com,98765  
