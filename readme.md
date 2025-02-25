@@ -139,3 +139,16 @@ ________________________________________________________________________________
 5. Using Reflection in .NET
 __________________________________________________________________________________
  
+ Date: 25-02-2025
+1.Intoduction to CSV
+2.Reading and writing CSV Files
+3. Parsing CSV Data
+4. Data Validation
+______________________________________________________________________________
+ Date: 26-02-2025
+1. Introduction to JSON
+2. Reading and Writing JSON Data
+3. Parsing JSON Data
+4. JSON Schema Validation
+______________________________________________________________________________
+ 
