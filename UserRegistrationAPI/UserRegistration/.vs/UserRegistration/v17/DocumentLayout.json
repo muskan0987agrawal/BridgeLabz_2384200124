@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\C#PRoject\\UserRegistrationAPI\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BCB824-F294-490D-9DAA-FA59FE3F6079}|UserRegistration.csproj|m:\\c#project\\userregistrationapi\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BCB824-F294-490D-9DAA-FA59FE3F6079}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3EA982-6E39-4A27-912A-207FBDD733AD}|..\\RepositoryLayer\\RepositoryLayer.csproj|m:\\c#project\\userregistrationapi\\repositorylayer\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796F7280-8482-4D2D-B230-D1F4F0CC18CC}|..\\BusinessLayer\\BusinessLayer.csproj|m:\\c#project\\userregistrationapi\\businesslayer\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D84123-D4EA-4B61-8D15-C8B0DDB8BB68}|..\\ModelLayer\\ModelLayer.csproj|m:\\c#project\\userregistrationapi\\modellayer\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\UserRegistrationAPI\\RepositoryLayer\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\UserRegistrationRL.cs",
+              "ToolTip": "M:\\C#PRoject\\UserRegistrationAPI\\RepositoryLayer\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:55:54.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\UserRegistrationAPI\\ModelLayer\\UserModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\UserModel.cs",
+              "ToolTip": "M:\\C#PRoject\\UserRegistrationAPI\\ModelLayer\\UserModel.cs",
+              "RelativeToolTip": "..\\ModelLayer\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:55:51.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\UserRegistrationAPI\\BusinessLayer\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\UserRegistrationBL.cs",
+              "ToolTip": "M:\\C#PRoject\\UserRegistrationAPI\\BusinessLayer\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:55:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\UserRegistrationAPI\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "M:\\C#PRoject\\UserRegistrationAPI\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:55:35.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
