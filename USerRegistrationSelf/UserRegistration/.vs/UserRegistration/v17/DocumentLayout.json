@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\C#PRoject\\URThursday\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC5E94A-876E-438E-B14B-3A5A0332636F}|..\\RepositoryLayer\\RepositoryLayer.csproj|m:\\c#project\\urthursday\\repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDB2446-A1DF-4E28-81B7-ADF542F1A93A}|..\\BusinessLayer\\BusinessLayer.csproj|m:\\c#project\\urthursday\\businesslayer\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|m:\\c#project\\urthursday\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|m:\\c#project\\urthursday\\userregistration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|m:\\c#project\\urthursday\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC5E94A-876E-438E-B14B-3A5A0332636F}|..\\RepositoryLayer\\RepositoryLayer.csproj|m:\\c#project\\urthursday\\repositorylayer\\context\\userregistrationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC5E94A-876E-438E-B14B-3A5A0332636F}|..\\RepositoryLayer\\RepositoryLayer.csproj|m:\\c#project\\urthursday\\repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|m:\\c#project\\urthursday\\userregistration\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|solutionrelative:nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|m:\\c#project\\urthursday\\userregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6759DB5E-F790-4DC9-8CA6-1EB914A320DD}|UserRegistration.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6DD2CB-77A6-4FEE-940F-929EE9706F5B}|..\\ModelLayer\\ModelLayer.csproj|m:\\c#project\\urthursday\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:26:21.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:23:35.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:25:27.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T13:50:33.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\UserRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\UserRegistration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:50:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistrationContext.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\RepositoryLayer\\Context\\UserRegistrationContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Context\\UserRegistrationContext.cs",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\RepositoryLayer\\Context\\UserRegistrationContext.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Context\\UserRegistrationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:47:58.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:46:10.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NLog.config",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\UserRegistration\\NLog.config",
+              "RelativeDocumentMoniker": "NLog.config",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\UserRegistration\\NLog.config",
+              "RelativeToolTip": "NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-03T11:34:18.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\UserRegistration\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\UserRegistration\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T16:53:34.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "M:\\C#PRoject\\URThursday\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ToolTip": "M:\\C#PRoject\\URThursday\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:07:48.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

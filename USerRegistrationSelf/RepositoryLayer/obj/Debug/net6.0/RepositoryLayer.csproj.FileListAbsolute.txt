@@ -1,0 +1,17 @@
+M:\C#PRoject\URThursday\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+M:\C#PRoject\URThursday\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+M:\C#PRoject\URThursday\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+M:\C#PRoject\URThursday\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+M:\C#PRoject\URThursday\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+M:\C#PRoject\URThursday\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+M:\C#PRoject\URThursday\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
