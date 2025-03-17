@@ -155,3 +155,10 @@ ______________________________________________________________________________
 1. Learning about asp.NET and create 1st project
 2. installation of Postman
 ______________________________________________________________________________
+ Date: 17-03-2025
+1. Use Node REPL to write code in Command Line
+2. Node Debugger. How to debug a JS code
+3. JS Data Types
+4. Programming Constructs
+______________________________________________________________________________
+
